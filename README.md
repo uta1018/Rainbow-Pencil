@@ -24,5 +24,5 @@
 ![bubble](https://github.com/uta1018/Rainbow-Pencil/assets/142863767/49bccbe9-9e50-4f38-bcc4-0ff19a357fce)
 ![processing](https://github.com/uta1018/Rainbow-Pencil/assets/142863767/c39b2796-1308-4903-9af0-745c4e742f68)
 ![sakura](https://github.com/uta1018/Rainbow-Pencil/assets/142863767/54dc61e5-aae3-4616-afd8-56b38feb2455)
-[flower](https://github.com/uta1018/Rainbow-Pencil/assets/142863767/264e584d-1db1-40dc-bb06-e32dec242db2)
+![flower](https://github.com/uta1018/Rainbow-Pencil/assets/142863767/264e584d-1db1-40dc-bb06-e32dec242db2)
 ![thankyou](https://github.com/uta1018/Rainbow-Pencil/assets/142863767/128a86f4-3723-4dd7-867a-787714d7b1c3)
